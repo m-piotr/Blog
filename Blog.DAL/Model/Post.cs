@@ -2,6 +2,7 @@
 
 namespace Blog.DAL.Model
 {
+    // test
     public class Post
     {
         [Key]
